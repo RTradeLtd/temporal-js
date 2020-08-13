@@ -70,7 +70,7 @@ class Temporal {
             return res.data;
         })
         .catch((err) => {
-            throw new Error(err.response.data.response);
+            throw new Error(err.response.data);
         });
     }
 
