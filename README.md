@@ -6,7 +6,7 @@ Javascript and TypeScript sdk for Temporal (https://github.com/RTradeLtd/Tempora
 
 ## Usage
 
-To install from npm you can use `npm install bonedaddy/temporal-js`.
+To install from npm you can use `npm install temporal-js`.
 
 ## Test
 
